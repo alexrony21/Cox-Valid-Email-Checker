@@ -18,6 +18,6 @@ This tool is connected to our server, making the checking process completely fre
 - **1m Proxy** = $500
 
 ## Contact:
-If you're interested in purchasing proxies, contact me via [Telegram](https://t.me/alexrony21).
+If you're interested in purchasing , contact me via [Telegram](https://t.me/alexrony21).
 
 Thanks!
